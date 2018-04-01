@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndriodGoogleFundmantal</string>
+    <string name="textSecActiivity">text coming from seconed activity</string>
+    <string name="go_to_sec_activity">Go to Sec Activity</string>
+    <string name="text_coming_to_seconed_activity">text coming to Main activity</string>
+    <string name="go_to_main_activity">Go to Main Activity</string>
+</resources>
